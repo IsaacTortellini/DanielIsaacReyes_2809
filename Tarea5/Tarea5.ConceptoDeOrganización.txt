@@ -1,0 +1,11 @@
+La organización es la fase que aplicando un conjunto de técnicas conducentes tiende 
+a adecuar los recursos previstos en la planificación para obtener una empresa estructurada, 
+creando órganos con funciones distintas en forma tal, que con la correspondiente división de 
+actividades y la debida coordinación de éstas, se obtenga el último fin de la empresa, que 
+es el beneficio y el progreso.
+
+Concepto propio.
+
+Organización con respecto a centros de computo se centra en dividir el centro en diferentes áreas
+cada una dedicada a realizar una tarea específica con el objetivo de alcanzar los objetivos planteados
+durante la planeación del centro de cómputo. 
