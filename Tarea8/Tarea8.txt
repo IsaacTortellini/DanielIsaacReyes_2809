@@ -1,0 +1,41 @@
+Reyes Sánchez Daniel Isaac grupo 2809
+Tarea 8.- Operación de un centro de cómputo.
+
+1.-Operar el sistema de computación central y mantener el sistema disponible para los usuarios.
+	-Un ejemplo de esto puede ser la responasabilidad que tienen la organizaciones de mantener su servicio de
+	cómputo funcionando en todo momento para sus usuarios, esto incluso si es necesario un mantenimiento o 
+	una actualización, por lo que en estos casos se debe reducir al mínimo el tiempo de espera para el usuario.
+	Como por ejemplo cuando los servidores de la facultad se saturan, entran en mantenimiento o se caen, es
+	responsabilidad de quien opera el sistema central, volver a ponerlo disponible lo antes posible y mantenerlo
+	así el mayor tiempo posible. 
+
+2.-Revisar los resultados de los procesos e incorporar acciones correctivas conforme a instrucciones de su superior
+inmediato.
+	-Es común que una vez implementado el sistema, los proesos no produzcan los resultados planeados o que se de
+	a conocer que es posible mejorar estos procesos para un mejor desempeño del sistema. Para esto se realizan
+	acciones correctivas proporcionadas por los encargados de los procesos.
+	Es posible registrar estas acciones y llevar un control sobre ellas, de esta forma pueden crearse manuales
+	los cuales sirven de ayuda para futuras situaciones las cuales presenten problematicxas similares.
+
+3.-Realizar las copias de respaldo (back-up) de la información y procesos de cómputo que se realizan en la dirección,
+conforme a parámetros preestablecidos.
+	-Es muy importante realizar copias de seguridad de manera constante para reducir los riesgos de una pérdida de
+	información, este tipo de acciones pueden realizarse por parte de la organización que controle el sistema asi
+	como por los mismos usuarios que utilizan el servicio.
+	Un ejemplo de esto son los respaldos en la nube, de whats app, One Drive, apple, etc.
+
+4.-Velar porque el sistema computarizado se mantenga funcionando apropiadamente y estar vigilante para detectar y
+corregir fallas en el mismo.
+	-Se necesita de un monitoreo constante sobre el servicio para detectar posibles fallas, no solamente del lado
+	de la organización, ya que también pueden presentarse fallas por parte de los servicios proporcionados a usuarios.
+	Para esto es que sirven los servicios de atención al cliente, soporte técnico, etc. Los cuales, generalmente, son
+	servicios que funcionan las 24 horas del dia, 7 dias a la semana.
+
+
+5.-Realizar labores de mantenimiento y lipieza de los equipos del centro de cómputo.
+
+	-El manenimiento y la correción de fallos no se reducen solo a aspectos de software, ya que donde existe software
+	existe un equipo de hardware que se encarga de ejecutarlo. Este equipo al ser un material físico, puede sufrir de
+	daños físicos provocados por el calentamiento, el polvo, la humedad, golpes, etc.
+	por lo que es necesario mantener limpios y en un lugar apropiado climáticamente estos equipos de cómputo.
+	Por ejemplo, el darle mantenimiento a una computadora por lo menos 2 veces al año.
